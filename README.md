@@ -39,4 +39,4 @@ yarn dev
 - This project is been run in **http://localhost:8080/**
 
 
-**Made in @Rocketseat Ignite's complementary challenge**
+**Made in @Rocketseat Ignite complementary challenge**
